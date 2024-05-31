@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Beef Kebabs"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "biryani"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Almonds"
+    }
+  ]
+}
